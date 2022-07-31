@@ -54,6 +54,12 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<a href="https://youtu.be/2MFOUs2vKz8"><br>
+  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
+</a><br>
+then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
+
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
